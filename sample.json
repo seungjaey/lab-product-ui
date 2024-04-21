@@ -1,0 +1,69 @@
+{
+  "no": 1000447598,
+  "name": "유레카 블루베리 100g 3종 (택1) (국산)",
+  "short_description": "큼지막한 사이즈를 자랑하는 블루베리",
+  "list_image_url": "https://product-image.kurly.com/product/image/dd17288f-5e81-414c-a334-92011e028405.jpg?v=0418",
+  "product_vertical_medium_url": "https://product-image.kurly.com/cdn-cgi/image/fit=crop,width=360,height=468,quality=85/product/image/dd17288f-5e81-414c-a334-92011e028405.jpg?v=0418",
+  "sales_price": 11900,
+  "discounted_price": 9996,
+  "discount_rate": 16,
+  "is_buy_now": false,
+  "is_purchase_status": true,
+  "is_giftable": false,
+  "is_only_adult": false,
+  "is_sold_out": false,
+  "sold_out_title": "Coming Soon",
+  "sold_out_text": "",
+  "can_restock_notify": true,
+  "tags": [
+    {
+      "name": "희소가치 프로젝트",
+      "type": "DEFAULT"
+    }
+  ],
+  "sticker": {
+    "content": [
+      {
+        "text": "+3천원쿠폰",
+        "weight": "bold"
+      }
+    ],
+    "opacity": 90,
+    "background_color": "#BD76FF"
+  },
+  "stickers": [
+    {
+      "type": "TOP_LEFT_TEXT",
+      "content": {
+        "contents": [
+          {
+            "text": "+3천원쿠폰",
+            "opacity": 1,
+            "font_style": "BOLD",
+            "font_effect": "NONE",
+            "font_color_code": "#FFFFFF"
+          }
+        ],
+        "background_opacity": 1,
+        "background_color_code": "#BD76FF"
+      }
+    }
+  ],
+  "is_multiple_price": true,
+  "group_product": {
+    "is_group": false,
+    "is_not_representative": false
+  },
+  "product_view_status": "BUY_POSSIBLE",
+  "not_purchase_message": "Coming Soon",
+  "delivery_type_names": [
+    "샛별배송"
+  ],
+  "delivery_type_infos": [
+    {
+      "type": "DAWN",
+      "description": "샛별배송"
+    }
+  ],
+  "review_count": "9,999+"
+}
